@@ -1,5 +1,8 @@
 # First successful attempt!
 
+# Problem Link: https://leetcode.com/problems/the-most-frequently-ordered-products-
+for-each-customer/
+
 SELECT customer_id,
        product_id,
        product_name
